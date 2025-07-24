@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nic3holas-wq](https://github.com/Nic3holas-wq)
 
-- 💬 Ask me about **React, TypeScript, TailwindCSS, Nodejs, PostgreSQL**
+- 💬 Ask me about **React, Nextjs, TypeScript, TailwindCSS, Django, PostgreSQL**
 
 - 📫 How to reach me **contact@nicho.co.ke**
 
