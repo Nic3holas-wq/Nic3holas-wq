@@ -8,7 +8,7 @@
 <p></p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [job-management-system](https://github.com/Nic3holas-wq/job-management-system)
+- 🔭 I’m currently working on [job-management-system](https://github.com/Nic3holas-wq/interviewlab)
 
 - 🌱 I’m currently learning **Nextjs**
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React, Nextjs, TypeScript, TailwindCSS, Django, PostgreSQL**
 
-- 📫 How to reach me **contact@nicho.co.ke**
+- 📫 How to reach me **nicholasmurimi254@gmail.com**
 
 - 📄 Know about my experiences [https://www.nicho.co.ke](https://www.nicho.co.ke)
 
