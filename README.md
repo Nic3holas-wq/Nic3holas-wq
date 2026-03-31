@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicholas Murimi</h1>
-<h3 align="center">I'm a Frontend Developer from Nairobi, Kenya</h3>
+<h3 align="center">I'm a Android Developer from Nairobi, Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nic3holas-wq&label=Profile%20views&color=0e75b6&style=flat" alt="nic3holas-wq" /> </p>
 <img align = "right" alt="codig gif" width="400" style="border-radius:20px" src="https://cdn.prod.website-files.com/61ebe5f773be1acd620f8208/61fa3997c8a7f531e18d4e67_man-coding-on-laptop.gif"/>
@@ -8,19 +8,17 @@
 <p></p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [AI Interviewer](https://github.com/Nic3holas-wq/interviewlab)
+- 🔭 I’m currently working on [CashCurb]([https://github.com/Nic3holas-wq/interviewlab](https://play.google.com/store/apps/details?id=com.apexdigital.cashcurb))
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nic3holas-wq](https://github.com/Nic3holas-wq)
 
-- 💬 Ask me about **React, Nextjs, TypeScript, TailwindCSS, Django, PostgreSQL**
+- 💬 Ask me about **Android, Kotlin, Jetpack Compose, Coroutines**
 
 - 📫 How to reach me **nicholasmurimi254@gmail.com**
 
 - 📄 Know about my experiences [https://www.nicho.co.ke](https://www.nicho.co.ke)
-
-- ⚡ Fun fact **I feel motivated when I fix a bug.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
