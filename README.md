@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicholas Murimi</h1>
-<h3 align="center">I'm a Software Engineer from Nairobi, Kenya</h3>
+<h3 align="center">I'm a FullStack Engineer from Nairobi, Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nic3holas-wq&label=Profile%20views&color=0e75b6&style=flat" alt="nic3holas-wq" /> </p>
 <img align = "right" alt="codig gif" width="400" style="border-radius:20px" src="https://cdn.prod.website-files.com/61ebe5f773be1acd620f8208/61fa3997c8a7f531e18d4e67_man-coding-on-laptop.gif"/>
@@ -8,7 +8,7 @@
 <p></p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [CashCurb]([https://github.com/Nic3holas-wq/interviewlab](https://play.google.com/store/apps/details?id=com.apexdigital.cashcurb))
+- 🔭 I’m currently working on [VeraPay]([https://github.com/Nic3holas-wq/verapay])
 
 - 🌱 I’m currently learning **Microservices**
 
@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@nicholasmurimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@nicholasmurimi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nicholas-murimi-684113233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholas-murimi-684113233" height="30" width="40" /></a>
+<a [href="[https://linkedin.com/in/muriminicholas](https://www.linkedin.com/in/muriminicholas/)](https://www.linkedin.com/in/muriminicholas/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholas-murimi-684113233" height="30" width="40" /></a>
 <a href="https://instagram.com/nicktech664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicktech664" height="30" width="40" /></a>
 </p>
 
