@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nic3holas-wq&label=Profile%20views&color=0e75b6&style=flat" alt="nic3holas-wq" /> </p>
 <img align = "right" alt="codig gif" width="400" style="border-radius:20px" src="https://cdn.prod.website-files.com/61ebe5f773be1acd620f8208/61fa3997c8a7f531e18d4e67_man-coding-on-laptop.gif"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nic3holas-wq" alt="nic3holas-wq" /></a> </p>
-<p></p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [VeraPay]([https://github.com/Nic3holas-wq/verapay])
 
