@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nic3holas-wq](https://github.com/Nic3holas-wq)
 
-- 💬 Ask me about **Java, Spring Boot, Microservices, React, Kotlin, Jetpack Compose, React Native**
+- 💬 Ask me about **Java, Spring Boot, Distributed Systems**
 
 - 📫 How to reach me **nicholasmurimi254@gmail.com**
 
-- 📄 Know about my experiences [https://www.nicho.co.ke](https://dev-portfolio-3uodl28dz-nicholas-projects-2cb34707.vercel.app/)
+- 📄 Visit my portfolio website [Portfolio Link](https://dev-portfolio-nu-livid.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
