@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nicholas Murimi</h1>
 <h3 align="center">I'm a Backend Engineer from Nairobi, Kenya</h3>
-<h3>Welcome! I build backend systems and love talking all things Java, Spring Boot, and Distributed Systems — let's connect.</h3>
+<h4>Welcome! I build backend systems and love talking all things Java, Spring Boot, and Distributed Systems — let's connect.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nic3holas-wq&label=Profile%20views&color=0e75b6&style=flat" alt="nic3holas-wq" /> </p>
 <img align = "right" alt="codig gif" width="400" style="border-radius:20px" src="https://cdn.prod.website-files.com/61ebe5f773be1acd620f8208/61fa3997c8a7f531e18d4e67_man-coding-on-laptop.gif"/>
-
-- 💬 Ask me about **Java, Spring Boot, Distributed Systems**
-
-- 🌱 I’m currently learning **Distributed Systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nic3holas-wq](https://github.com/Nic3holas-wq)
 
