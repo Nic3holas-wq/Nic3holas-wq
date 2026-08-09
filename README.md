@@ -4,14 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nic3holas-wq&label=Profile%20views&color=0e75b6&style=flat" alt="nic3holas-wq" /> </p>
 <img align = "right" alt="codig gif" width="400" style="border-radius:20px" src="https://cdn.prod.website-files.com/61ebe5f773be1acd620f8208/61fa3997c8a7f531e18d4e67_man-coding-on-laptop.gif"/>
 
+- 💬 Ask me about **Java, Spring Boot, Distributed Systems**
 
-- 🔭 I’m currently working on [VeraPay]([https://github.com/Nic3holas-wq/verapay])
-
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **Distributed Systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nic3holas-wq](https://github.com/Nic3holas-wq)
-
-- 💬 Ask me about **Java, Spring Boot, Distributed Systems**
 
 - 📫 How to reach me **nicholasmurimi254@gmail.com**
 
@@ -36,20 +33,9 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <!-- Kotlin -->
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <!-- React Native -->
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <!-- Jetpack Compose -->
-  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="jetpack compose" width="40" height="40"/> </a>
+
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nic3holas-wq&show_icons=true&locale=en&layout=compact" alt="nic3holas-wq" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nic3holas-wq&show_icons=true&locale=en" alt="nic3holas-wq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nic3holas-wq&" alt="nic3holas-wq" /></p>
